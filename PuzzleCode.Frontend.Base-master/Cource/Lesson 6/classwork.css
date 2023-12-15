@@ -1,0 +1,30 @@
+добавить каждому классу свой селектор
+p {
+<li>color: hsl(76deg 90% 83%);</li>
+<li>color: orange;</li>
+}
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+}
+p {
+    list-style:none; 
+    margin: 0; 
+    padding: 0
+}
+ul, ol {
+ font-size: 16px; 
+}
+p {
+font-family: Arial, sans-serif; 
+font-size: 24px; font-weight: 400; 
+font-style: italic; 
+}
+<div
+list-style=width: 400px;>
+</div>
+
+.brd {
+ border: 2px double black;
+ padding: 10px;
